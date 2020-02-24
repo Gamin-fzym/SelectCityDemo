@@ -1,0 +1,6 @@
+framework module Pods_DMSelectCityDemo_DMSelectCityDemoUITests {
+  umbrella header "Pods-DMSelectCityDemo-DMSelectCityDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
